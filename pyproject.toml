@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-requires-poetry = "==2.1.1"
+requires-poetry = "==2.2.1"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
